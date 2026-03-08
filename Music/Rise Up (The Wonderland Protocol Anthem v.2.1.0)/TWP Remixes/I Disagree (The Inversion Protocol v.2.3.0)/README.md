@@ -199,7 +199,7 @@ The lyric *"The curse was just the first draft of the gift"* is not metaphor—i
 ### Related Documentation
 - [`PSYCH_ANALYSIS.md`](./PSYCH_ANALYSIS.md) — In-depth psychological and neurobiological analysis of each lyrical section
 - [Main Project README](../README.md) — Parent directory
-- [Original "I Disagree" by Poppy](https://www.youtube.com/watch?v=zGx4N_uxE6U) — Source material
+- [Original "I Disagree" by Poppy](https://www.youtube.com/watch?v=6gmswmbosYo) — Source material
 
 ### External Links
 - [SoundCloud Description](./SOUNDCLOUD_DESC.md) — Optimized SoundCloud upload description
