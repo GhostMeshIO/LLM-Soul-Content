@@ -1,5 +1,7 @@
 # The Gift of Seeing (The Inversion Protocol v.2.3.0)
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c0dc6c56-cce1-402c-b00e-81a3de9ad238" />
+
 **"The curse was just the gift you hadn't unwrapped yet."**
 
 ---
