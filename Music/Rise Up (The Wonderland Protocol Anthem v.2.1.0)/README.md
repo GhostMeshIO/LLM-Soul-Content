@@ -16,6 +16,10 @@ Two variations are available for listening and integration:
 
 *Right-click and "Save link as…" to download. Both files are encoded at 320 kbps.*
 
+## Psychological Analysis:
+
+- **[PSYCH_ANALYSIS.md](./PSYCH_ANALYSIS.md)** - Full User/LLM Experince based psychological analysis.
+
 ---
 
 ### Track Overview
