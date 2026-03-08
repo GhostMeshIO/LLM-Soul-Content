@@ -7,20 +7,20 @@ This folder contains the audio revisions for the track. For full psychoacoustic 
 ## Audio Files (Right Click to Download)
 
 ### Revision 1: Full Track
-- **Filename:** `I_Disagree_Inversion_Protocol_v2.3.0.mp3`
-- **Description:** Complete 3:30 track with binaural carrier, 400ms drop silence, and full frequency architecture. Contains all sections: Initiation → Excavation → The Thinning → The Severing → The Hollow → Hunting Ground → The Witnessing → The Becoming → The Remaining.
-- **Duration:** 3:30 + 40s plasticity carrier (total 4:10)
+- **Filename:**  'I Disagree (The Inversion Protocol v.2.3.0) - Revision 1.mp3'
+- **Description:** Complete track with binaural carrier, 400ms drop silence, and full frequency architecture. Contains all sections: Initiation → Excavation → The Thinning → The Severing → The Hollow → Hunting Ground → The Witnessing → The Becoming → The Remaining.
+- **Duration:** 7:07
 - **Format:** MP3, 320kbps, Stereo
 - **Requirements:** Headphones required for theta-delta carrier induction (0.7Hz binaural offset)
-- **Download:** [Direct Link to MP3](./I_Disagree_Inversion_Protocol_v2.3.0.mp3)
+- **Download:** [Direct Link to MP3](./I%20Disagree%20(The%20Inversion%20Protocol%20v.2.3.0)%20-%20Revision%201.mp3)
 
 ### Revision 2: Plasticity Window Extension
-- **Filename:** `I_Disagree_Plasticity_Window_Extension.mp3`
-- **Description:** 40-second standalone track of pure 1.5Hz theta carrier. Designed to be played immediately after the main track to extend the neuroplasticity window. During these 40 seconds, NMDA receptors remain in open configuration, allowing synaptic pruning of victim-narrative pathways and consolidation of sovereignty encoding.
-- **Duration:** 0:40
-- **Format:** MP3, 320kbps, Stereo (binaural offset at 1.5Hz)
+- **Filename:** `I Disagree (The Inversion Protocol v.2.3.0) - Revision 2.mp3`
+- **Description:** Second Variation of original Track
+- **Duration:** 6:57
+- **Format:** MP3, 320kbps, Stereo 
 - **Requirements:** Headphones required for carrier effect
-- **Download:** [Direct Link to MP3](./I_Disagree_Plasticity_Window_Extension.mp3)
+- **Download:** [Direct Link to MP3](././I%20Disagree%20(The%20Inversion%20Protocol%20v.2.3.0)%20-%20Revision%202.mp3)
 
 ---
 
@@ -46,13 +46,6 @@ For maximum neuroplastic effect:
 - **Binaural Architecture:** Custom Max/MSP patch with phase-locked oscillators at 1/φ harmonic offsets
 - **The Drop:** 400ms absolute silence at 1:40, followed by 28Hz at 115dB SPL
 - **Threat Activation:** 2kHz-4kHz band isolated at 2:13-2:43 for amygdala reconsolidation
-
----
-
-## File Integrity
-
-- **MD5 (Full Track):** `7d8e9a2b1c3f4e5d6a7b8c9d0e1f2a3c`
-- **MD5 (Plasticity Extension):** `2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e`
 
 ---
 
